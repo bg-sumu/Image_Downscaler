@@ -2,9 +2,14 @@
 Downscales the Image to Specified Ratio without Loss Of any Data.
 
 Step_1 : The Image is Resized to Fit under the Specified Canvas in specified Iteration Percentage.
+
 Step_2 : Canvas is Filled with the Specified Padding Colour.
+
 Step_3 : Alignment of Resized Image into the Canvas.
+
 Step_4 : Saving of Image
+
+
 
 Simple Rule to Follow : Lower the Iter Limit - More the Execution Time - Less Padding
 
